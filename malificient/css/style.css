@@ -1,0 +1,220 @@
+.container{
+    width: 1280px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+span{
+font-family: 'Ysabeau';
+font-style: italic;
+font-weight: 800;
+font-size: 18px;
+line-height: 48px;
+color: #FFFFFF;
+}
+.container1-hero{
+    width: 300px;
+    height: 180px;
+    margin-top: 10px;
+    font-size: 14px;
+    text-align: center;
+
+background: #FFD700;
+border-radius: 20px;
+}
+.container-hero1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+.container-malificient{
+    display: flex;
+    justify-content: space-evenly;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-family: Philosopher;
+    font-style: italic;
+}
+.photo1-header{
+width: 21px;
+height: 22px;
+margin: 15px;
+}
+.malificient, .hero1{
+    background-color: black;
+}
+.malificient{
+    height: 650px;
+}
+.text-malificient{
+  
+   
+
+font-family: 'Ysabeau';
+font-style: italic;
+font-weight: 800;
+font-size: 18px;
+line-height:48px;
+
+color: #053BA3;
+width: 700px;
+text-align: center;
+
+
+}
+.photo-malificient{
+    width: 350px;
+    height: 450px;
+    position: relative;
+    left: 100px;
+}
+.title1-malificient{
+    color: black;
+    font-family: Ysabeau;
+    font-style: italic;
+font-weight: 800;
+font-size:24px;
+}
+.title-malificient{
+   
+
+font-family: 'Ysabeau';
+font-style: italic;
+font-weight: 800;
+font-size: 48px;
+line-height: 107px;
+
+background:   linear-gradient(270deg, #FFFFFF 0%, #053BA3 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-align: center;
+}
+.header {
+    width: 100%;
+    height: 135px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.photo-link {
+    width: 24%;
+    height: 64px;
+    margin: 10px;
+}
+ul {
+    display: flex;
+    width: 94%;
+    height: 64px;
+    justify-content: space-around;
+    align-items: center;
+}
+.photo1-header {
+    width: 21px;
+    height: 22px;
+    margin: 15px;
+}
+a {
+    text-decoration: none;
+    color: white;
+    font-family: Philosopher;
+    font-style: italic;
+}
+nav {
+    width: 76%;
+    display: flex;
+    align-items: center;
+}
+.ellipse {
+    background-color: blue;
+    border-radius: 100px;
+    width: 51px;
+    height: 52px;
+}
+.text1-hero{
+    color: #000080;
+    font-family: Sofia Sans;
+    font-size: 13px;
+}
+.footer{
+    background: black;
+    width: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.text-footer{
+    margin-left: 50px;
+    font-family: 'Ojuju';
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 34px;
+    color: #FFFFFF;
+}
+.text1-footer{
+    font-family: 'Ojuju';
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 34px;
+    color: #FFFFFF;
+    text-align: center;
+    width: 50%;
+}
+.photo-footer{
+    margin-left: 50px;
+    width: 279px;
+    height: 64px;
+}
+.container-footer{
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+}
+.container1-footer{
+    width: 30%;
+    
+}
+.photo1-footer{
+    width: 70px;
+  
+}
+.photo1-footer:last-child{
+    width: 110px;
+    
+}
+.container4-footer{
+    width: 50%;
+    display: flex;
+   
+    justify-content: space-around;
+    margin-top: 10px;
+}
+.text2-footer{
+    font-family: 'Ojuju';
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 34px;
+    color: #FFFFFF;
+    margin: 50px auto;
+    text-align: center;
+    width: 100%;
+
+}
+.container2-footer{
+    width: 100%;
+    text-align: center;
+
+}
+.photo2-footer{
+    width: 1000px;
+}
+
+
